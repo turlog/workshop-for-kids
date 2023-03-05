@@ -1,0 +1,8 @@
+name: workshop-for-kids
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytest
+  - flake8
+  - pylint
