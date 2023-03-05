@@ -7,6 +7,6 @@ for i in range(4):
     t.right(90)
     t.forward(100)
 
-input("Press Enter to exit...")
+s.exitonclick()
 
 # TODO prepare code to write pentagon and hexagon the same way, prepare function to calculate n-agon
