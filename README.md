@@ -3,16 +3,14 @@
 
 W ramach warsztatów chcielibyœmy przedstawiæ Wam nie tylko popularny jêzyk programowania, ale pokazaæ te¿ jak mo¿e wygl¹daæ sposób rozwi¹zania zadania w sposób, w jaki na co dzieñ mierz¹ siê profesjonalni programiœci.
 
-Oprócz rozwi¹zywania przygotowanych dla Was zadañ chcielibyœmy poruszyæ nastêpujêce tematy i znaleŸæ odpowiedzi na kilka pytañ:
-- Czym jest algorytm? Jak mo¿emy go zapisywaæ?
-- Czym jest jêzyk programowania i kod programu?
-- Jak napisaæ i uruchomiæ algorytm w Pythonie na przyk³adzie rysowania figury geometrycznej.
-- Czym jest funkcja, po co jej u¿ywamy?
-- Na czym polega testowanie? 
-- Z jakich narzêdzi na co dzieñ u¿ywaj¹ profesjonalni programiœci w pracy?
-- W jaki sposób mo¿emy dodawaæ zmiany do istniej¹cego projektu?
+Plan na zajêcia!:
+- Szczypta teorii, czym jest programowanie, czym jest algorytm?
+- Wspó³praca w tworzeniu kodu - korzystanie z gita,
+- IDE - nasze narzêdzie do tworzenia kodu,
+- Z czego sk³ada siê program? Pakiety, klasy, funkcje!
+- Testowanie automatyczne, regresja.
 
-Stawiamy na praktykê, dlatego czêœæ teoretyczn¹ ograniczymy do minimum (to nie lekcje w szkole!) i od razu dostaniecie od nas sprzêt i praktyczne zadanie!
+Stawiamy na praktykê, dlatego czêœæ teoretyczn¹ ograniczymy do minimum (to nie lekcje w szkole!) i od razu dostajecie od nas sprzêt i praktyczne zadanie!
 
 ### Grafika ¿ó³wiowa
 
