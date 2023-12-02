@@ -17,7 +17,8 @@ Przygotowanie do pracy - konfiguracja środowiska programisty:
 1. Uruchamiamy VS Code
 2. Wewnątrz VS Code otwieramy terminal
 3. Klonujemy repozytorium `git@github.com:turlog/workshop-for-kids.git`
-4. Tworzymy środowisko (`conda create env -n nazwa python=3.10`)
+4. Tworzymy środowisko (`conda create -n [nazwa] python`)
+5. Aktywujemy środowisko (`conda activate [nazwa]`)
 5. Tworzymy plik `hello.py` zawierający `print("Hello!")`
 6. Uruchamiamy `python hello.py`
 
